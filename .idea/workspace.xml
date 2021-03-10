@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="742f25b0-6f00-415f-9f30-f6970bee6e5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.xmy/TestPing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="742f25b0-6f00-415f-9f30-f6970bee6e5a" name="Default Changelist" comment="基本的jedis操作" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,8 +89,16 @@
       <option name="presentableId" value="Default" />
       <updated>1615358992908</updated>
       <workItem from="1615358994152" duration="1572000" />
-      <workItem from="1615361273697" duration="1083000" />
+      <workItem from="1615361273697" duration="1399000" />
     </task>
+    <task id="LOCAL-00001" summary="基本的jedis操作">
+      <created>1615364159776</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615364159776</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +115,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基本的jedis操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="基本的jedis操作" />
   </component>
 </project>
